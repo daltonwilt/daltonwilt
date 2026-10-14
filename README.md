@@ -1,16 +1,13 @@
-## Hi there 👋
+Software Engineer building tools that give consumers full transparency
+into the agreements and systems they rely on.
 
-<!--
-**daltonwilt/daltonwilt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 What I'm building
+- **Sigil** at **Monolith**: an e-signature platform designed so signers
+  can see and understand exactly what they're agreeing to.
+- **[Learn](https://github.com/daltonwilt/Learn)**: a structured roadmap from
+  Java foundations to distributed systems and cloud security, with code for each stage.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Focus areas
+- Java and backend engineering
+- Distributed systems
+- Cloud security and regulatory compliance
